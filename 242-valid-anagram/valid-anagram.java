@@ -1,4 +1,4 @@
-class Solution{
+class Solution{  //ANAGRAM
     public boolean isAnagram(String s,String t){
 
         if(s.length() !=t.length())
